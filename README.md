@@ -80,7 +80,7 @@ Wie ihr eure Dateien hochladet, steht in [`gruppen/README.md`](gruppen/README.md
 ## 👥 Betreuung
 
 - Reiner Marchthaler
-- Marc Pentia
+- Marc Pentia Email: mapeit04@hs-esslingen.de
 
 Bei Fragen oder Problemen einfach melden oder ein
 [Issue](../../issues) erstellen.
