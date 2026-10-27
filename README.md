@@ -34,6 +34,7 @@ und tritt damit beim **Roboter-Sumo** gegen die anderen an. 🏆
 | `notebooks/` | Jupyter-Notebooks für den JetBot |
 | `challenges/` | Challenges zu jedem Thema |
 | `gruppen/` | **euer Bereich**: Code und CAD-Dateien eurer Gruppe |
+| `gruppenfotos/` | **euer Gruppenfoto**, aufgenommen mit dem JetBot |
 
 ---
 
@@ -51,6 +52,18 @@ und tritt damit beim **Roboter-Sumo** gegen die anderen an. 🏆
 
 Jede Gruppe hat einen eigenen Ordner unter `gruppen/`.
 Wie ihr eure Dateien hochladet, steht in [`gruppen/README.md`](gruppen/README.md).
+
+---
+
+## 📸 Gruppenfoto
+
+Als Abschluss der Teleoperation nehmt ihr mit dem JetBot ein Gruppenfoto auf.
+
+1. Foto nach eurer Gruppe benennen, z. B. `gruppe_a.jpg`
+2. In den Ordner `gruppenfotos/` legen und per Pull Request hochladen
+
+Mehr dazu in [`gruppenfotos/README.md`](gruppenfotos/README.md).
+Bitte nur Fotos hochladen, mit denen alle Abgebildeten einverstanden sind.
 
 ---
 
